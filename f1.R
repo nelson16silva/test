@@ -1,3 +1,3 @@
 f1 <- function() {
-  Sys.time() * 3
+  Sys.time() 
 }
